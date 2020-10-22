@@ -39,3 +39,8 @@
  - Place: Assam, India
  - Bio: B.E(CSE) Student
  - GitHub: [ icodechiranjib ](https://github.com/icodechiranjib)
+ 
+ #### Name: Atharva Parikh
+ - Place: Maharashtra, India
+ - Bio: SY IT Engg. Student
+ - GitHub: [ Atharva-Parikh ](https://github.com/Atharva-Parikh)
